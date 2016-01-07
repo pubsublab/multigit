@@ -5,3 +5,7 @@ function test(){
 function verify(){
 	console.log('verify');
 }
+
+function log(){
+	console.log('log');
+}
